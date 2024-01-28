@@ -62,8 +62,8 @@ Visit `http://localhost:5085` in your browser. The app should be up & running.
 
 ```bash
 $ # Get the code
-$ git clone https://github.com/appseed-projects/7885c6e5-89ef-4bbf-a4e5-16fcbc64060f.git
-$ cd 7885c6e5-89ef-4bbf-a4e5-16fcbc64060f
+$ git clone https://github.com/hwanython/appspeed-flask.git
+$ cd appspeed-flask
 ```
 
 <br />
